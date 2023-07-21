@@ -332,3 +332,53 @@ body{
     }
 }
 
+@media screen and (min-width:480px) and (max-width:768px){
+    .div1{
+        margin-left: 7.5%;
+        margin-top: 5%;
+    }
+
+    .div2{
+        width: 85%;
+        margin-left: 7.5%;
+    }
+
+    .time{
+        width: 79%;
+        margin-left: 95%;
+    }
+    .div3 {
+        width: 85%;
+        margin-left: 7.5%;
+    }
+    .btn{
+        margin-left: 7.5%;
+        width: 40%;
+    }
+    .tp1{
+        display: none;
+    }
+
+    .tp2{
+        display: none;
+    }
+
+    .box1{
+        margin-left: 95%;
+        margin-top: 2%;
+        width: 79%;
+    }
+
+    .image{
+        margin-left: 95%;
+        width: 79%;
+    }
+    .image img{
+        width: 100%;
+    }
+
+    .div5{
+        width: 42%;
+    }
+}
+
