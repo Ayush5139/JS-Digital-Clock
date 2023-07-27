@@ -52,6 +52,7 @@ body{
     background-color: #9140B5;
     border-radius: 10px;
     margin-top: 15px;
+    display: none;
 }
 
 #p3{
@@ -104,7 +105,7 @@ body{
     border-radius: 10px;
     border: #EDEDED solid 1px;
     margin-left: 706px;
-    margin-top: -700px;
+    margin-top: -620px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -170,11 +171,15 @@ body{
 
 .image{
     width: 536px;
-    height: 341px;
     background: white;
     margin-left: 707px;
     margin-top: 15px;
     border-radius: 10px;
+}
+
+#img{
+    width: 536px;
+    height: 341px;
 }
 
 #msg{
